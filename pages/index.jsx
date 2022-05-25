@@ -16,7 +16,7 @@ export default function Home() {
       <div className="">
         <div className="flex place-items-center justify-center">
           <div className="">
-            <h1 className="md:text-5xl text-4xl font-bold"><span className="text-green-500">DON'T HAVE ENOUGH CAPITAL<br></br></span> FOR YOUR BUSINESS?</h1>
+            <h1 className="md:text-5xl text-4xl font-bold"><span className="text-green-500">DON&apos;T HAVE ENOUGH CAPITAL<br></br></span> FOR YOUR BUSINESS?</h1>
           </div>
           <div className="md:w-40 w-36 pt-20">
             <Image src={nomail} alt="image" className="" />
@@ -63,7 +63,7 @@ export default function Home() {
                 <p className="text-center text-2xl mt-10">Get verified in minutes and matched with the perfect program to kickstart your journey.</p>
             </div>
             <div className="">
-              <p className="text-center text-2xl mt-10">All we need is your name,<br></br>an email, a phone number,<br></br>your NIN or any identity card,<br></br>your home address and we're<br></br>good to go!</p>
+              <p className="text-center text-2xl mt-10">All we need is your name,<br></br>an email, a phone number,<br></br>your NIN or any identity card,<br></br>your home address and we&apos;re<br></br>good to go!</p>
             </div>
             <div className="flex justify-center mt-20 w-[50%] mx-auto">
                 <Image src={Group1026} alt="image" />
